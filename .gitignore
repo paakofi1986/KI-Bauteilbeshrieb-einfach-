@@ -1,2 +1,22 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
-*
+# Python
+__pycache__/
+*.pyc
+
+# Envs/IDE
+.venv/
+.env
+.env.*
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Outputs
+*.xlsx
+*.xls
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
