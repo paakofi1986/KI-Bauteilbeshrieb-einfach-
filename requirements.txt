@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+openai
+python-docx
+Pillow
+openpyxl
+python-dotenv
+xlsxwriter
